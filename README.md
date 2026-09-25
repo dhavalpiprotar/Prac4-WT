@@ -1,2 +1,89 @@
 # Prac4-WT
-Static webpage
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Marwadi University</h1>
+        <h2>Department of Computer Engineering</h2>
+        <nav>
+            <a href="Vision">Vision</a>
+            <a href="Mission">Mission</a>
+            <a href="Peo">Peo</a>
+            <a href="PSO">PSO</a>
+            <a href="Co">Co</a>
+            <a href="TR">TR</a>
+        </nav>
+    </header>
+    <main>
+        
+        <section id="Vision">
+            <h3>Vision</h3>
+            <p>To Impact Quality technical education and faster innovation in the field of computer Engineering.</p>
+        </section>
+        <section id="Mission">
+            <h3>Mission</h3>
+            <ul>
+
+            <li>provide state-of-the-art infastructure and learning environment.</li>
+            <li>promote research,innovation,and industry collabration.</li>
+            <li>inculate ethical values and professionals leadership qualities. </li>
+            <li>encourage lifelong leaening to adapt to evolving technologies.</li>
+
+            </ul>
+        </section>
+           <section id="Peo">
+            <h3>program Educational Objectives (PEOs)</h3>
+            <ol>
+
+         <li>Prepare graduates with strong foundational knowledge in Computer Engineering.</li>
+        <li>Enable students to solve complex real-world engineering problems.</li>
+      </ul>
+    </section>
+
+    <!-- PSO Section -->
+    <section id="PSO">
+      <h3>Program Specific Outcomes (PSOs)</h3>
+      <ul>
+        <li>Apply software engineering principles to modern application development.</li>
+        <li>Analyze and design intelligent solutions for computing problems.</li>
+      </ul>
+    </section>
+
+    <!-- CO Section -->
+    <section id="Co">
+      <h3>Course Outcomes (COs)</h3>
+      <ul>
+        <li>Understand foundational concepts of computer system architectures.</li>
+        <li>Design scalable web and mobile applications.</li>
+        <li>Demonstrate efficient data structuring and algorithm usage.</li>
+        <li>Apply database management systems to modern workloads.</li>
+      </ul>
+    </section>
+
+    <!-- TR Section -->
+    <section id="TR">
+      <h3>Training & Resources (TR)</h3>
+      <ul>
+        <li>Advanced Computing Laboratories</li>
+        <li>Industry-certified Training Programs</li>
+        <li>Web & Mobile App Development Workshops</li>
+        <li>Cloud Infrastructure Access</li>
+        <li>Interdisciplinary Research Labs</li>
+        <li>Skill Enhancement Seminars</li>
+        <li>Soft Skills & Placement Training</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Marwadi University - Department Of Computer Engineering.
+  </footer>
+
+</body>
+</html>
